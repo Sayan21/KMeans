@@ -9,4 +9,3 @@ KMRand(X,K,tolerance) := K-Means with Random Initialization
 KMPP(X,K,tolerance):= K-Means++
 KMPL(X,K,tolerance):= K-Means||
 MoM(X,K,tolerance):= K-Means with MoM initialization
-Lanczos(X,K):= Lanczos iterations for whitening
